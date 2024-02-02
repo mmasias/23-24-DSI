@@ -2,7 +2,7 @@
 
 Proyecto|Descripción|Modo de entrega
 -|-|-
-001 - [Grupos de trabajo](01-grupos.mdmación de los grupos siguiendo un conjunto de reglas establecidas|
+001 - [Grupos](01-grupos.md) | Conformación de los grupos de trabajo siguiendo un conjunto de reglas establecidas|
 002 - | |
 003 - | |
 004 - | |

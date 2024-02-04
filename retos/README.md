@@ -1,4 +1,6 @@
-# Proyectos
+# Retos
+
+## Grupales
 
 Proyecto|Descripción|Modo de entrega
 -|-|-
@@ -12,3 +14,9 @@ Proyecto|Descripción|Modo de entrega
 008 - | |
 009 - | |
 010 - | |
+
+## Individuales
+
+Proyecto|Descripción|Modo de entrega
+-|-|-
+001 - [Huella digital personal](01-huellaDigitalPersonal.md)|Huella digital personal|

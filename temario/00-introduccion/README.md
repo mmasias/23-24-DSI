@@ -39,9 +39,9 @@ Asia Occidental|50%
 
 ||
 |-|
-<img src="https://blog.acens.com/wp-content/images/que-pasa-internet-un-minuto-2023-infografia-ediscovery-today-acens-blog-cloud.png" width=70%>
-Fuente: [eDiscoveredToday](https://ediscoverytoday.com/2023/04/20/2023-internet-minute-infographic-by-ediscovery-today-and-ltmg-ediscovery-trends/)
-Fuente de la fuente: [eDiscoveredToday](https://ediscoverytoday.com/wp-content/uploads/2023/04/2023-Internet-Minute-Infographic-Source-Stats.pdf)
+|<img src="https://blog.acens.com/wp-content/images/que-pasa-internet-un-minuto-2023-infografia-ediscovery-today-acens-blog-cloud.png" width=50%>|
+|Fuente: [eDiscoveredToday](https://ediscoverytoday.com/2023/04/20/2023-internet-minute-infographic-by-ediscovery-today-and-ltmg-ediscovery-trends/)|
+|Fuente de la fuente: [eDiscoveredToday](https://ediscoverytoday.com/wp-content/uploads/2023/04/2023-Internet-Minute-Infographic-Source-Stats.pdf)|
 
 
 ### Usuario @ Modelos de negocio

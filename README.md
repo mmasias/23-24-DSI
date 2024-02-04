@@ -10,7 +10,6 @@ Repo de materiales y proyectos de la asignatura **Dirección de Sistemas de Info
 |[Retos que abordaremos](retos/README.md)|Parte de la evaluación continua.
 |[Glosario de conceptos clave](./docs/glosario.md)|Conceptos que hay que manejar con cierta soltura y que forman parte del vocabulario habitual de los Sistemas de Información
 |[Bibliografía y lecturas recomendadas](./lecturasBibliografia.md)|Libros, artículos, *et al*.
-|[Un número al día](docs/unNumeroAlDia.md)|Un número al día...
 
 ## Herramientas, links *et al*
 

@@ -49,7 +49,16 @@ Término|Relacionado a...
 Prosumidor|productor-consumidor
 Sellsumer|seller-consumer
 Iniciativas crowd|Crowdsourcing, crowdfunding, crowdgifting, etc.
-Consumo colaborativo|Ccoworking, carpooling, carsharing, alquiler entre particulares, bancos de tiempo, etc.
+Consumo colaborativo|Coworking, carpooling, carsharing, alquiler entre particulares, bancos de tiempo, etc.
+Economía gig|Trabajo freelance, plataformas de servicios bajo demanda
+Fintech|Tecnología financiera, banca digital, criptomonedas, plataformas de pago online
+Edtech|Tecnología educativa, plataformas de aprendizaje en línea, MOOCs
+Healthtech|Tecnología en salud, telemedicina, aplicaciones de salud, wearables
+Greentech|Tecnologías sostenibles, energías renovables, tecnologías limpias
+Smart cities|Ciudades inteligentes, IoT urbano, gestión inteligente de recursos
+Nómadas digitales|Trabajo remoto, viajeros que trabajan en línea desde cualquier parte del mundo
+Retailtech|Tecnología en el comercio minorista, comercio electrónico, experiencia de compra digital
+Foodtech|Tecnología en la alimentación, delivery de comida, plataformas de reserva de restaurantes
 
 ### Velocidad de generación de la información
 

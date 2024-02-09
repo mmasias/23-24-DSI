@@ -10,8 +10,8 @@ Repo de materiales y proyectos de la asignatura **Dirección de Sistemas de Info
 ||🔲 *Modelos de negocio e innovación* / P·O·D·C
 ||🔲 *Funciones de la dirección de sistemas de información* / **P**·**O**·D·C
 ||🔲 *Estrategia y planificación de los sistemas de información* / **P**·**O**·D·C
-||🔲 *Gestión de proyectos de integración de sistemas* / P·O·**D**·**C**
 ||🔲 *Gestión de operaciones y servicios* / P·O·**D**·**C**
+||🔲 *Gestión de proyectos de integración de sistemas* / P·O·**D**·**C**
 |[Retos que abordaremos](retos/README.md)|La evaluación continua.
 |[Conceptos clave](./docs/glosario.md)|Conceptos que hay que manejar con soltura y que forman parte del **vocabulario habitual** de los Sistemas de Información
 |[Bibliografía y lecturas recomendadas](./lecturasBibliografia.md)|Libros, artículos, *et al*.

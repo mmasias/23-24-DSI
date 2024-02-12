@@ -1,0 +1,30 @@
+class Empresa
+
+class Estrategia {
+    Dirección clara
+
+    Gestión de recursos eficiente
+
+    Diferenciación
+
+    Flexibilidad
+
+    Mejora continua
+}
+
+class Planificación{
+
+    Objetivos claros
+
+    Asignación de recursos eficiente
+    
+    Anticipación a los problemas
+    
+    Mejora de la eficiencia
+    
+    Mejor toma de decisiones
+
+}
+
+Estrategia ..r.> Empresa:clara
+Planificación ..l.> Empresa:adecuada

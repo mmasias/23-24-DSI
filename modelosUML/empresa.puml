@@ -1,0 +1,16 @@
+package Empresa {
+    class "Iniciativa Empresarial" as Empresa 
+    Empresa -l- Ganancias: Busca generar >
+    Ganancias -d- Accionistas
+
+    
+    Empresa -d- "Bienes o Servicios": Produciendo o\n distribuyendo >
+}
+
+    Empresa -r- Valor: Busca generar >
+Organización <|-- Empresa
+"Bienes o Servicios" .r.. Clientes
+Valor -d- Clientes
+
+' hide class circle
+' hide empty members

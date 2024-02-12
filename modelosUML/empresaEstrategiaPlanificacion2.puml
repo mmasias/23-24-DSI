@@ -1,0 +1,5 @@
+Estrategia -u- Empresa:> clara
+Planificación -u- Empresa:> adecuada
+
+Estrategia .r.> Planificación: Guía a
+Planificación ...> Estrategia: Ayuda a que se cumpla

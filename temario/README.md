@@ -2,9 +2,9 @@
 
 ## Introducción
 
-- [ ] [Introducción a la asignatura](00-introduccion/README.md)
+- [x] [Introducción a la asignatura](00-introduccion/README.md)
 
-## Modelos de negocio e innovación
+## [Modelos de negocio e innovación](01-modelosNegocioInnovacion/README.md)
 
 - [ ] Economía Digital
 - [ ] Herramientas y marcos de trabajo

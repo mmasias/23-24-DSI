@@ -10,9 +10,4 @@ Si hay alumnos con alguna particularidad en el mismo (no asistencia, ERASMUS, et
 
 ## Realización
 
-La actividad [se trabajará aquí](https://docs.google.com/spreadsheets/d/1qJNEUbHG_Tbw02Cv8VpkqQ6ICNVh2g_8FsdNWQw-ppA/edit?usp=sharing).
-
-Los alumnos, en la pestaña alumnos.
-
-En la pestaña EC Grupal, se van colocando los integrantes (su número) en la columna D.
-
+***Actualización***: el grupo se envía por email al correo del profesor antes del viernes 16.

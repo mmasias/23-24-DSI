@@ -6,7 +6,7 @@
 
 ## [Modelos de negocio e innovación](01-modelosNegocioInnovacion/README.md)
 
-- [ ] Economía Digital
+- [x] [Economía Digital](/temario/01-modelosNegocioInnovacion/economiaDigital.md)
 - [ ] Herramientas y marcos de trabajo
   - [ ] El lienzo de modelo de negocio
   - [ ] Análisis DAFO

@@ -1,5 +1,4 @@
 [![](https://img.shields.io/badge/-Tabla_de_contenidos-000?style=flat&logo=Emlakjet&logoColor=red)](../README.md)
-[![](https://img.shields.io/badge/-Inicio%20de%20cap%C3%ADtulo-000?style=flat&logo=Acclaim&logoColor=red)](./t01-00-00-modelosDeNegocioInnovacion.md)
 
 # Modelos de negocio e innovación
 
@@ -88,8 +87,8 @@ Quinario|Relativo a los servicios sin ánimo de lucro|Cultura, educación, arte 
 
 ## ¿Cómo?
 
-1. Interiorizando el concepto de [Economía Digital](t01-01-00-economiaDigital.md).
-1. [Modelando la empresa](./t01-02-00-herramientasMarcos.md) de manera formal mediante herramientas y marcos de análisis, usando:
+1. Interiorizando el concepto de [Economía Digital](economiaDigital.md).
+1. Modelando la empresa de manera formal mediante herramientas y marcos de análisis, usando:
     - **Presentación visual** de la lógica y los fundamentos del negocio.
     - **Tablas y gráficos** para representar y comparar diferentes elementos clave de un modelo de negocio, como los flujos de ingresos y gastos.
     - **Descripciones** escritas.

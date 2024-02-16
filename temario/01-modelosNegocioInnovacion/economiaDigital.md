@@ -35,10 +35,6 @@ A medida que las tecnologías digitales se volvieron más accesibles y ampliamen
   - Las empresas de transporte de pasajeros pueden utilizar tecnologías de análisis de datos para comprender mejor a sus clientes y mejorar sus procesos de negocio.
   - Las mejoras en la experiencia del cliente pueden cambiar la forma en que las empresas operan y compiten.
 
-|||
-|-|-|
-El Manifiesto Cluetrain es un listado de 95 conclusiones ordenadas y presentadas como un manifiesto, o una llamada a la acción, para todas las empresas que operan en lo que se sugiere un mercado con nuevas conexiones. Las ideas expresadas dentro del manifiesto buscan examinar el impacto de Internet tanto en los mercados (consumidores) como en las organizaciones. Además, ambos, consumidores y organizaciones, son capaces de utilizar Internet y otras redes para establecer un nivel de comunicación que antiguamente no existía entre estos dos grupos. El manifiesto sugiere los cambios necesarios para que las organizaciones respondan a un nuevo ambiente de mercado.|> ***#notaMental***: mencionar el [Manifiesto Cluetrain](http://tremendo.com/cluetrain/) y la bidireccionalidad del efecto Empresa - Tecnología - Cliente. *Reflexionar sobre las conclusiones:* 1-6, 12, 20, 26, 77, 82
-
 ### Ej.: Hoteles y AirBnB
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/2/25/888_Brannan%2C_San_Francisco%2C_2016.jpg" width="40%" align="right"/>
@@ -68,6 +64,12 @@ Una estrategia de gestión que recoge, procesa y analiza datos temporales, espac
 Flirty bots|Vendidas como «software y contenido desarrollado para mejorar tu estado de ánimo y bienestar», este tipo de aplicaciones son, según demuestra un informe de la Mozilla Foundation, un auténtico infierno para la privacidad, con un funcionamiento destinado a extraer la mayor cantidad de datos personales de todo tipo del usuario, ingentes e injustificadas cantidades de trackers de todo tipo, y políticas extremadamente poco claras que permiten una explotación prácticamente ilimitada de esos datos.|"[Hágalo usted mismo](https://decrypt.co/150383/you-can-now-build-your-own-ai-girlfriend-heres-how)" ([Repo](https://github.com/a16z-infra/companion-app))
 
 > *Artículo completo*: [El peligroso negocio del amor pixelado - Enrique Dans](https://www.enriquedans.com/2024/02/el-peligroso-negocio-del-amor-pixelado.html)
+
+### #2Think: cambio de la relación empresa - cliente
+
+|||
+|-|-|
+El Manifiesto Cluetrain es un listado de 95 conclusiones ordenadas y presentadas como un manifiesto, o una llamada a la acción, para todas las empresas que operan en lo que se sugiere un mercado con nuevas conexiones. Las ideas expresadas dentro del manifiesto buscan examinar el impacto de Internet tanto en los mercados (consumidores) como en las organizaciones. Además, ambos, consumidores y organizaciones, son capaces de utilizar Internet y otras redes para establecer un nivel de comunicación que antiguamente no existía entre estos dos grupos. El manifiesto sugiere los cambios necesarios para que las organizaciones respondan a un nuevo ambiente de mercado.|> ***#notaMental***: mencionar el [Manifiesto Cluetrain](http://tremendo.com/cluetrain/) y la bidireccionalidad del efecto Empresa - Tecnología - Cliente. *Reflexionar sobre las conclusiones:* 1-6, 12, 20, 26, 77, 82
 
 ## ¿Qué?
 

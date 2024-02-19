@@ -1,4 +1,4 @@
-# Creación libre de un modelo de negocio
+# Creación de un modelo de negocio
 
 La presente evaluación continua consiste en **crear un modelo de negocio**.
 

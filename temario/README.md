@@ -8,7 +8,7 @@
 
 - [x] [Economía Digital](/temario/01-modelosNegocioInnovacion/economiaDigital.md)
 - [ ] Herramientas y marcos de trabajo
-  - [ ] El lienzo de modelo de negocio
+  - [x] [El lienzo de modelo de negocio](/temario/01-modelosNegocioInnovacion/t01-02-01-lienzoModeloNegocio.md)
   - [ ] Análisis DAFO
   - [ ] Otros marcos de trabajo
 - [ ] Innovación

@@ -10,7 +10,7 @@
 - [ ] [Herramientas y marcos de trabajo](/temario/01-modelosNegocioInnovacion/marcosDeTrabajo.md)
   - [x] [El lienzo de modelo de negocio](/temario/01-modelosNegocioInnovacion/t01-02-01-lienzoModeloNegocio.md)
   - [x] [Análisis DAFO](/temario/01-modelosNegocioInnovacion/t01-02-02-analisisDAFO.md)
-  - [ ] Otros marcos de trabajo
+  - [x] [Otros marcos de trabajo](/temario/01-modelosNegocioInnovacion/t01-02-03-algunosMarcos.md)
 - [ ] Innovación
   - [ ] Tipos de Innovación
   - [ ] El Modelo de Innovación como proceso

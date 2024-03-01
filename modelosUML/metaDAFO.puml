@@ -1,0 +1,40 @@
+class DAFO{
+    a.k.a. FODA
+    a.k.a. SWOT
+}
+
+class Fortalezas {
+    Es fácil de entender y aplicar
+    Ayuda a identificar las Fs y Ds internas, así como las Os y As externas.
+    Estructura una aproximación a la evaluación de la situación actual.
+}
+
+class Oportunidades {
+    Facilita identificar problemas y áreas de mejora.
+    Facilita identificar nuevas oportunidades de crecimiento y desarrollo.
+    Se puede aplicar en una amplia gama de situaciones empresariales.
+}
+
+class Debilidades {
+    Requiere una cantidad significativa de tiempo, recursos y conocimiento del dominio para su correcta elaboración.
+    La calidad del análisis depende de la calidad de los datos.
+    Y del analista!!!
+    ¡Y de apoyarse en datos! ¡Objetivos!
+    Puede resultar en una cantidad abrumadora de información y datos que pueden ser difíciles de sintetizar y utilizar de manera efectiva.
+}
+
+class Amenazas {
+    Dada su sencillez es relativamente fácil pasar por alto factores importantes
+    Podría no contemplar la complejidad de ciertas situaciones.
+    Puede ser utilizado de manera incorrecta por aquellos que no estén familiarizados con su dinámica:
+    > Simplificar en exceso
+    > Tender a la subjetivación
+}
+
+DAFO *-u- Fortalezas
+DAFO *-l- Oportunidades
+DAFO *-d- Debilidades
+DAFO *-R- Amenazas
+
+hide class circle
+hide empty members

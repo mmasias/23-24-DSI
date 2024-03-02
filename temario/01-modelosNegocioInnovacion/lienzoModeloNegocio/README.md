@@ -1,5 +1,5 @@
-[![](https://img.shields.io/badge/-Tabla_de_contenidos-000?style=flat&logo=Emlakjet&logoColor=red)](../README.md)
-[![](https://img.shields.io/badge/-Inicio%20de%20cap%C3%ADtulo-000?style=flat&logo=Acclaim&logoColor=red)](./README.md)
+[![](https://img.shields.io/badge/-Tabla_de_contenidos-000?style=flat&logo=Emlakjet&logoColor=red)](../../README.md)
+[![](https://img.shields.io/badge/-Inicio%20de%20cap%C3%ADtulo-000?style=flat&logo=Acclaim&logoColor=red)](../README.md)
 
 # El lienzo del modelo de negocio
 
@@ -51,15 +51,15 @@ Mediante 9 elementos clave.
 
 Sigla|Nombre|Descripción
 -|-|-
-[SM](t01-02-01-s01-segmentoMercado.md)|Segmentos de mercado|Una empresa atiende a uno o varios segmentos de mercado.
-[PV](t01-02-01-s02-propuestaValor.md)|Propuestas de valor|Su objetivo es solucionar los problemas de los clientes y satisfacer sus necesidades mediante propuestas de valor.
-[C](t01-02-01-s03-canales.md)|Canales|Las propuestas de valor llegan a los clientes a través de canales de comunicación, distribución y venta. 
-[RCL](t01-02-01-s04-relacionesConClientes.md)|Relaciones con clientes|Las relaciones con los clientes se establecen y mantienen de forma independiente en los diferentes segmentos de mercado
-[FDI](t01-02-01-s05-fuentesDeIngreso.md)|Fuentes de ingresos|Las fuentes de ingresos se generan cuando los clientes adquieren las propuestas de valor ofrecidas. 
-[RC](t01-02-01-s06-recursosClave.md)|Recursos clave|Los recursos clave son los activos necesarios para ofrecer y proporcionar los elementos antes descritos.
-[AC](t01-02-01-s07-actividadesClave.md)|Actividades clave|Mediante una serie de actividades clave. 
-[AsC](t01-02-01-s08-asociacionesClave.md)|Asociaciones clave|Algunas actividades se externalizan y determinados recursos se adquieren fuera de la empresa. 
-[EC](t01-02-01-s09-estructuraDeCostes.md)|Estructura de costes|Los diferentes elementos del modelo de negocio conforman la estructura de costes.
+[SM](segmentoMercado.md)|Segmentos de mercado|Una empresa atiende a uno o varios segmentos de mercado.
+[PV](propuestaValor.md)|Propuestas de valor|Su objetivo es solucionar los problemas de los clientes y satisfacer sus necesidades mediante propuestas de valor.
+[C](canales.md)|Canales|Las propuestas de valor llegan a los clientes a través de canales de comunicación, distribución y venta. 
+[RCL](relacionesConClientes.md)|Relaciones con clientes|Las relaciones con los clientes se establecen y mantienen de forma independiente en los diferentes segmentos de mercado
+[FDI](fuentesDeIngreso.md)|Fuentes de ingresos|Las fuentes de ingresos se generan cuando los clientes adquieren las propuestas de valor ofrecidas. 
+[RC](recursosClave.md)|Recursos clave|Los recursos clave son los activos necesarios para ofrecer y proporcionar los elementos antes descritos.
+[AC](actividadesClave.md)|Actividades clave|Mediante una serie de actividades clave. 
+[AsC](asociacionesClave.md)|Asociaciones clave|Algunas actividades se externalizan y determinados recursos se adquieren fuera de la empresa. 
+[EC](estructuraDeCostes.md)|Estructura de costes|Los diferentes elementos del modelo de negocio conforman la estructura de costes.
 
 Es lógica y natural la correspondencia entre los propósitos que motivan la existencia del liezo canvas (*¿para qué?*) con los elementos que lo componen (*¿cómo?*): 
 

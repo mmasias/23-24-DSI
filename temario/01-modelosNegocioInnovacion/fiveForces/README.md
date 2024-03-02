@@ -47,5 +47,3 @@ Consideremos una empresa que desarrolla software de gestión empresarial. ¿Cóm
 ||Implementar metodologías ágiles para una rápida respuesta a las demandas del mercado.|Diseñar sistemas logísticos para una implementación efectiva del software.|Analizar tendencias del mercado para guiar la dirección estratégica de la empresa.
 
 </div>
-
-![](/images/porterEjemplo.webp)

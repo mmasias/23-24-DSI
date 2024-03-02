@@ -21,4 +21,4 @@ Análisis VRIO|VRIO|Marco para evaluar los recursos y capacidades de una empresa
 Análisis de las 3C de Kenichi Ohmae||Enfoque que se centra en tres factores clave: la Corporación, los Clientes y la Competencia, para el desarrollo de estrategias competitivas.|:heavy_check_mark:|:heavy_check_mark:
 Teoría de juegos||Enfoque matemático para analizar estrategias en situaciones de competencia, donde el éxito depende de las decisiones de otros.|:black_square_button:|:heavy_check_mark:
 Análisis de escenarios||Técnica de planificación que permite explorar y prepararse para varios futuros posibles.|:heavy_check_mark:|:heavy_check_mark:
-Mapa de empatía||Herramienta que ayuda a comprender profundamente a los clientes identificando qué piensan, sienten, ven, dicen, hacen y escuchan.|:heavy_check_mark:|:black_square_button
+Mapa de empatía||Herramienta que ayuda a comprender profundamente a los clientes identificando qué piensan, sienten, ven, dicen, hacen y escuchan.|:heavy_check_mark:|:black_square_button:

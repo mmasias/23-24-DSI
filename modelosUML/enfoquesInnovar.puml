@@ -1,0 +1,28 @@
+hide circle
+
+class Empresa {
+    Necesita adaptarse a la evolución
+    Busca ventajaCompetitiva 
+}
+
+class CambiosTecnologicos as "Cambios tecnológicos" {
+    Evolucion rápida
+}
+
+class NecesidadesDeConsumidores as "Necesidades de los consumidores" {
+    Evolucion constante 
+}
+
+class EntornoCompetitivoGlobal as "Entorno competitivo global" {
+    
+}
+
+class MetodosYProcesosParaInnovar as "Metodos y procesos para innovar" {
+    EnfoquesDeInnovacion()
+}
+
+Empresa --> CambiosTecnologicos : Se enfrenta a
+Empresa --> NecesidadesDeConsumidores : Se enfrenta a
+Empresa --> EntornoCompetitivoGlobal : Se enfrenta a
+Empresa -r-> MetodosYProcesosParaInnovar : Para esto adopta
+

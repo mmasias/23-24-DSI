@@ -12,11 +12,15 @@
   - [x] [Análisis DAFO](/temario/01-modelosNegocioInnovacion/analisisDAFO/README.md)
   - [x] [Otros marcos de trabajo](/temario/01-modelosNegocioInnovacion/marcosDeTrabajoVademecum.md)
     - [x] [Cinco fuerzas Porter](/temario/01-modelosNegocioInnovacion/fiveForces/README.md)
-- [ ] Innovación
-  - [ ] Tipos de Innovación
-  - [ ] El Modelo de Innovación como proceso
-  - [ ] Innovación y metodologías ágiles
-  - [ ] Estrategia de Océano Azul
+- [x] [Innovación](/temario/01-modelosNegocioInnovacion/innovacion/README.md)
+  - [x] [Tipos de innovación](/temario/01-modelosNegocioInnovacion/innovacion/tipos.md)
+  - [x] [El Modelo de innovación como proceso](/temario/01-modelosNegocioInnovacion/innovacion/proceso.md)
+  - [x] [Enfoques para innovar](/temario/01-modelosNegocioInnovacion/innovacion/enfoques.md)  
+    - [ ] Estrategia de Océano Azul
+    - [ ] Innovación abierta (Open innovation)
+    - [ ] Teoría de los trabajos por realizar (Jobs to be done)
+    - [ ] Innovación de plataformas
+    - [ ] Diseño de modelos de negocio sostenibles
 
 ## Funciones de la dirección de sistemas de información
 

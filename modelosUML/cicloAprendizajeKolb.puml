@@ -1,0 +1,29 @@
+hide circle
+hide empty members
+
+class Aprendizaje
+class Experiencia {
+    hacer o haber tenido
+    una experiencia
+    }
+class Observación{
+    reflexionar sobre la experiencia
+}
+class Conceptualización{
+    aprender de la experiencia
+    sacar conclusiones
+}
+class Experimentación{
+    aplicar lo aprendido
+    a situaciones del mundo real
+}
+
+Aprendizaje *-u- Experiencia
+Aprendizaje *-r- Observación
+Aprendizaje *-d- Conceptualización
+Aprendizaje *-l- Experimentación
+
+Experiencia .d.> Observación
+Observación .d.> Conceptualización
+Conceptualización .u.> Experimentación
+Experimentación .u.> Experiencia

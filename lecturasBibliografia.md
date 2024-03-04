@@ -1,5 +1,6 @@
 # Bibliografía, lecturas, links et al
 
+- [La muerte de la búsqueda](https://www.enriquedans.com/2024/03/la-muerte-de-la-busqueda.html)
 - [Combating abusive AI-generated content: a comprehensive approach](https://blogs.microsoft.com/on-the-issues/2024/02/13/generative-ai-content-abuse-online-safety/)
 
 ---

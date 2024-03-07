@@ -16,11 +16,11 @@
   - [x] [Tipos de innovación](/temario/01-modelosNegocioInnovacion/innovacion/tipos.md)
   - [x] [El Modelo de innovación como proceso](/temario/01-modelosNegocioInnovacion/innovacion/proceso.md)
   - [x] [Enfoques para innovar](/temario/01-modelosNegocioInnovacion/innovacion/enfoques.md)  
-    - [ ] Estrategia de Océano Azul
-    - [ ] Innovación abierta (Open innovation)
-    - [ ] Teoría de los trabajos por realizar (Jobs to be done)
-    - [ ] Innovación de plataformas
-    - [ ] Diseño de modelos de negocio sostenibles
+    - [x] [Estrategia de Océano Azul](/temario/01-modelosNegocioInnovacion/innovacion/oceanoAzul.md)
+    - [x] [Innovación abierta (Open innovation)](/temario/01-modelosNegocioInnovacion/innovacion/innovacionAbierta.md)
+    - [x] [Teoría de los trabajos por realizar (Jobs to be done)](/temario/01-modelosNegocioInnovacion/innovacion/jobsToBeDone.md)
+    - [x] [Innovación de plataformas](/temario/01-modelosNegocioInnovacion/innovacion/dePlataformas.md)
+
 
 ## Funciones de la dirección de sistemas de información
 

@@ -17,7 +17,7 @@
 
 ## ¿Qué?
 
-**Innovación:** proceso de negocio que crea nuevos productos, servicios, procesos, modelos de negocio y mercados que entregan valor a sus usuarios.
+**Innovación:** [proceso](https://dle.rae.es/proceso) de negocio que crea nuevos productos, servicios, procesos, modelos de negocio y mercados que entregan valor a sus usuarios.
 
 Un elemento esencial de la innovación es su **aplicación exitosa de forma comercial**: no solo hay que inventar algo, sino, introducirlo en el mercado para que la gente pueda disfrutar de ello.
 

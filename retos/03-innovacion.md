@@ -6,7 +6,7 @@
 
 ## ¿Para qué?
 
-Este ejercicio tiene como objetivo reconocer las fases de construcción de un modelo de negocio conducente al diseño de una solución tecnológica que mejore la experiencia XYZW*ística*.
+**Innovación**: este ejercicio tiene como objetivo reconocer las fases de construcción de un modelo de negocio conducente al diseño de una solución tecnológica que mejore la experiencia XYZW*ística*.
 
 ## ¿Cómo?
 

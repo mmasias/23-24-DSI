@@ -19,6 +19,14 @@
 - [*Diseñar un*][*Refinar el*] modelo de negocio de modo que se detalle cómo se abordará esta mejora.
 - **Incluir consideraciones** sobre la estructura de costos, fuentes de ingreso y estrategias para llegar al mercado.
 
+<div align=center>
+
+|<big>Exponer superficialmente < < Incluir consideraciones < Detallar</big>|
+|:-:|
+¡Atención!
+
+</div>
+
 #### Conceptualización de la solución
 
 - Definir características clave y cómo estas abordan los problemas identificados en la fase de investigación.

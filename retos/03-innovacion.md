@@ -1,10 +1,6 @@
 # *pyXYZW*
 
-## ¿Por qué?
-
-## ¿Qué?
-
-## ¿Para qué?
+## ¿Por qué? / ¿Qué? / ¿Para qué?
 
 **Innovación**: este ejercicio tiene como objetivo reconocer las fases de construcción de un modelo de negocio conducente al diseño de una solución tecnológica que mejore la experiencia XYZW*ística*.
 

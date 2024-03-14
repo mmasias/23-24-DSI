@@ -82,3 +82,10 @@ As usual, hay varios modelos. Por citar dos:
 Fuente: informe [La innovación en la empresa española](https://apd-prod-wordpress.s3.amazonaws.com/uploads/sites/2/2023/02/informe_la_innovacion_en_la_empresa_espanola_apd_cesin.pdf) (2023)
 
 ![image](https://user-images.githubusercontent.com/8528047/229054610-b7985905-d493-4071-ada9-a0769a4c77b3.png)
+
+### Ejemplos de planes de innovación
+
+- [Plan Estratégico de Innovación 2011- 2015 - Instituto de Investigación Sanitaria Biodonostia](https://www.biodonostia.org/wp-content/uploads/2014/09/Plan-de-Innovaci%C3%B3n-2011-2015-IIS-Biodonostia-v123.pdf)
+- [I Plan Estratégico de Innovación en Salud de La Rioja - 2017-2022](https://www.riojasalud.es/files/content/ciudadanos/planes-estrategicos/Plan_de_Innovacion.pdf)
+- Propuesta [CASI@UNEATLANTICO](https://docs.google.com/presentation/d/1puagAGlKjXV3TymBewJY29LqsBPEZKGVlUXMbSLxSKM/edit?usp=sharing)
+- PANAL & COLMENA

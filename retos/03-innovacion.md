@@ -62,3 +62,7 @@
 - Documentos de proyecto que incluyan investigación de mercado, descripción de la solución, modelo de negocio, modelo de innovación y plan de implementación.
 - Prototipos de la solución.
 - Presentación final del proyecto.
+
+#### Entrega
+
+- Dado que se trata de una evolución del trabajo anterior, se trabaja sobre la misma carpeta compartida.

@@ -2,6 +2,8 @@
 
 Existen una serie de conceptos clave que pueden aparecer en el contenido antes de abordarlos en profundidad en los diferentes capítulos, que adelantamos a continuación para facilitar la comprensión de los diferentes temas
 
+![](/images/modelosUML/modelosUML/esquemaConceptosTransversalesMM.svg)
+
 |Término|Definición|Links
 -|-|-
 Big Data|Tecnología que permite el manejo de grandes cantidades de datos estructurados y no estructurados (que no pueden ser manejados por las tecnologías de bases de datos tradicionales), así como su almacenamiento y análisis para una mejor comprensión y toma de decisiones. Se caracterizan por las conocidas como 5v: Volumen, Variedad, Velocidad, Veracidad y Valor.|

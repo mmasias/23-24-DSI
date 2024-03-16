@@ -1,0 +1,146 @@
+@startuml
+class BigData {
+    +5 Vs: Volumen, Variedad, Velocidad, Veracidad, Valor
+}
+
+class Blockchain {
+    +Seguridad mediante cifrado
+    +Transacciones inmutables
+}
+
+class Canvas {
+    +Modelo de negocio Lean Startup
+}
+
+class Ciberseguridad {
+    +Protección contra ataques maliciosos
+}
+
+class CloudComputing {
+    +Servicios a través de Internet
+}
+
+class CRM {
+    +Gestión de las relaciones con los clientes
+}
+
+class ECommerce {
+    +Venta y compra online
+}
+
+class ERP {
+    +Planificación de recursos empresariales
+}
+
+class Industria40 {
+    +Tecnologías avanzadas e inteligentes
+}
+
+class Innovación {
+    +Mejora de la posición empresarial
+}
+
+class IntegraciónDeSistemasDeGestión {
+    +Unificación de criterios y objetivos de software
+}
+
+class InteligenciaArtificial {
+    +Algoritmos para simular el comportamiento humano
+}
+
+class InteligenciaDeNegocios {
+    +Análisis de datos para la toma de decisiones
+}
+
+class InternetOfThings {
+    +Objetos físicos conectados a Internet
+}
+
+class ITIL {
+    +Mejores prácticas para la gestión de IT
+}
+
+class Latencia {
+    +Retardos temporales en la red
+}
+
+class MachineLearning {
+    +Aprendizaje automático
+}
+
+class ModeloTCPIP {
+    +Protocolos para la comunicación en redes
+}
+
+class NFC {
+    +Comunicación inalámbrica de corto alcance
+}
+
+class OcéanoAzul {
+    +Creación de nuevos mercados
+}
+
+class OperaciónDeSistemas {
+    +Administración de software y hardware
+}
+
+class Outsourcing {
+    +Externalización de sistemas de información
+}
+
+class RealidadAumentada {
+    +Información virtual en el entorno real
+}
+
+class RealidadVirtual {
+    +Entornos simulados interactivos
+}
+
+class RedesInformáticas {
+    +Conexión de equipos informáticos
+}
+
+class SLA {
+    +Acuerdo de nivel de servicio
+}
+
+class ProfesionalesSTEM {
+    +Conocimientos en ciencia, tecnología, ingeniería, matemáticas
+}
+
+class TalentoDigital {
+    +Habilidades en tecnologías de la información
+}
+
+class TalentoSTEM {
+    +Perfil profesional interdisciplinario
+}
+
+class TransformaciónDigital {
+    +Digitalización y enfoque en datos
+}
+
+BigData --> InteligenciaDeNegocios
+BigData --> MachineLearning
+Blockchain --> Ciberseguridad
+CloudComputing --> Ciberseguridad
+CloudComputing --> CRM
+CloudComputing --> ERP
+Industria40 --> InternetOfThings
+Industria40 --> MachineLearning
+Innovación --> TransformaciónDigital
+InteligenciaArtificial --> MachineLearning
+InternetOfThings --> IntegraciónDeSistemasDeGestión
+ITIL --> OperaciónDeSistemas
+MachineLearning --> InteligenciaDeNegocios
+ModeloTCPIP --> RedesInformáticas
+NFC --> ECommerce
+OperaciónDeSistemas --> Outsourcing
+RealidadAumentada --> TransformaciónDigital
+RealidadVirtual --> TransformaciónDigital
+RedesInformáticas --> ModeloTCPIP
+SLA --> Outsourcing
+TalentoDigital --> TransformaciónDigital
+TalentoSTEM --> ProfesionalesSTEM
+
+@enduml

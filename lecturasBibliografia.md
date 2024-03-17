@@ -1,5 +1,6 @@
 # Bibliografía, lecturas, links et al
 
+- [A propósito de innovación, regulación e inteligencia artificial](https://twitter.com/joselcs/status/1769278932933554424)
 - [La muerte de la búsqueda](https://www.enriquedans.com/2024/03/la-muerte-de-la-busqueda.html)
 - [Combating abusive AI-generated content: a comprehensive approach](https://blogs.microsoft.com/on-the-issues/2024/02/13/generative-ai-content-abuse-online-safety/)
 

@@ -22,11 +22,11 @@
     - [x] [Innovación de plataformas](/temario/01-modelosNegocioInnovacion/innovacion/dePlataformas.md)
 
 
-## Funciones de la dirección de sistemas de información
+## [Funciones de la dirección de sistemas de información](/temario/02-funcionesDSI/README.md)
 
-- [ ] Definición de Sistemas de la información en las organizaciones
-- [ ] Evolución histórica
-- [ ] Componentes
+- [x] [Definición de Sistemas de la información en las organizaciones](/temario/02-funcionesDSI/definicion.md)
+- [x] [Evolución histórica](/temario/02-funcionesDSI/evolucion.md)
+- [x] [Componentes](/temario/02-funcionesDSI/componentes.md)
 - [ ] Personas: como nos organizamos
   - [ ] Funciones
   - [ ] Conocimiento

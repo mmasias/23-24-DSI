@@ -4,22 +4,18 @@
 
 P, O, D & C los SI.
 
-Mediante la **adecuada ejecución** de los puntos PODC, puedes planificar e innovar.
-
 ## ¿Qué?
 
 
 
 ## ¿Para qué?
 
-
+Mediante la **adecuada ejecución** de los puntos PODC, puedes planificar e innovar.
 
 ## ¿Cómo?
 
-Conociendo su definición, cómo ha evolucionado, con qué elementos y cómo se organizan para llevar a cabo las actividades.
-
-## A tener en cuenta
-
+|[Conociendo su definición](definicion.md)|>>|[Cómo ha evolucionado](evolucion.md)|>>|[Qué elementos lo componen](componentes.md)|>>|Cómo se organizan|
+|-|-|-|-|-|-|-
 
 ## Enlaces externos & bibliografía
 

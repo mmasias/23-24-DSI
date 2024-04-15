@@ -1,0 +1,121 @@
+@startuml
+
+class CEO {
+    CHIEF EXECUTIVE OFFICER
+    Director Ejecutivo
+    ---
+    Define la visión y estrategia empresarial
+    Supervisa todas las operaciones y decisiones corporativas.
+}
+
+class COO{
+    CHIEF OPERATING OFFICER
+    Director de Operaciones
+    ---
+    Gestiona las operaciones diarias de la empresa 
+    ejecuta la estrategia operativa.
+}
+
+class CMO{
+    CHIEF MARKETING OFFICER
+    Director de Marketing
+    ---
+    Responsable de la planificación, desarrollo
+     e implementación de todas las actividades 
+     de marketing.
+}
+
+class CFO{
+    CHIEF FINANCIAL OFFICER
+    Director Financiero
+    ---
+    Supervisa la gestión financiera, 
+    la planificación presupuestaria 
+    y los riesgos financieros.
+}
+
+class CIO{
+    CHIEF INFORMATION OFFICER
+    Director de Información
+    ---
+    Lidera las estrategias tecnológicas 
+    y de información para aumentar 
+    la eficiencia operativa.
+}
+
+class CTO{
+    CHIEF TECHNOLOGY OFFICER
+    Director de Tecnología
+    ---
+    Dirige el desarrollo 
+    y la implementación de tecnologías
+    innovadoras y políticas de TI.
+}
+
+class CCO {
+    CHIEF COMMUNICATIONS OFFICER
+    Director de Comunicaciones
+    ---
+    Gestiona todas las comunicaciones
+    internas y externas, fortaleciendo 
+    la imagen de la empresa.
+}
+
+class CDO {
+    CHIEF DIGITAL OFFICER
+    Director Digital
+    ---
+    Encargado de la transformación digital 
+    y la integración de tecnologías digitales 
+    en la empresa.
+    ---
+    CHIEF DESIGN OFFICER
+    Director de Diseño
+    ---
+    Responsable del diseño de productos 
+    y la experiencia de usuario en toda 
+    la organización.
+    ---
+    CHIEF DIVERSITY OFFICER
+    Director de Diversidad
+    ---
+    Promueve la diversidad e inclusión 
+    dentro de la empresa, estableciendo 
+    políticas y programas relacionados.
+    ---
+    CHIEF DATA OFFICER 
+    Director de Datos
+    ---
+    Supervisa la estrategia y la gestión 
+    de datos para optimizar el uso y 
+    la seguridad de la información.
+}
+
+class CGO {
+    CHIEF GROWTH OFFICER
+    Responsable del crecimiento
+    ---
+    Enfocado en impulsar el crecimiento 
+    rápido y sostenible a través de 
+    estrategias comerciales y de producto.
+}
+
+class CXO {
+    CHIEF CUSTOMER EXPERIENCE OFFICER
+    Director de Experiencia del Cliente
+    ---
+    Asegura una experiencia de cliente
+    excepcional a través de todos los 
+    puntos de contacto de la empresa.
+}
+
+class CRO {
+    CHIEF REMOTE OFFICER
+    Director de teletrabajo
+    ---
+    Desarrolla y supervisa políticas 
+    y prácticas para optimizar la 
+    eficacia del trabajo remoto.
+}
+
+@enduml

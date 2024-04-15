@@ -27,7 +27,7 @@
 - [x] [Definición de Sistemas de la información en las organizaciones](/temario/02-funcionesDSI/definicion.md)
 - [x] [Evolución histórica](/temario/02-funcionesDSI/evolucion.md)
 - [x] [Componentes](/temario/02-funcionesDSI/componentes.md)
-- [ ] Personas: como nos organizamos
+- [ ] [Personas: como nos organizamos](/temario/02-funcionesDSI/organizacion.md)
   - [ ] Funciones
   - [ ] Conocimiento
 - [ ] Actividades de la DSI

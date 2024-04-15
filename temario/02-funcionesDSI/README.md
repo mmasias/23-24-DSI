@@ -44,7 +44,7 @@ Se espera:
 
 ## ¿Cómo?
 
-|[Conociendo su definición](definicion.md)|>>|[Cómo ha evolucionado](evolucion.md)|>>|[Qué elementos lo componen](componentes.md)|>>|Cómo se organizan|
+|[Conociendo su definición](definicion.md)|>>|[Cómo ha evolucionado](evolucion.md)|>>|[Qué elementos lo componen](componentes.md)|>>|[Cómo se organizan](organizacion.md)|
 |-|-|-|-|-|-|-
 
 ## Enlaces externos & bibliografía

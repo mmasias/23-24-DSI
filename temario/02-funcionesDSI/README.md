@@ -41,7 +41,6 @@ Se espera:
 |Visión estratégica      | Consumo eficiente de recursos técnicos             | Adopción de tecnologías emergentes | Visión de mercado
 |                        | Capacitación en TI                                | Cultura pro TI
 
-
 ## ¿Cómo?
 
 |[Conociendo su definición](definicion.md)|>>|[Cómo ha evolucionado](evolucion.md)|>>|[Qué elementos lo componen](componentes.md)|>>|[Cómo se organizan](organizacion.md)|

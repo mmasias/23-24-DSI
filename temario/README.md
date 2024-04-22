@@ -27,10 +27,10 @@
 - [x] [Definición de Sistemas de la información en las organizaciones](/temario/02-funcionesDSI/definicion.md)
 - [x] [Evolución histórica](/temario/02-funcionesDSI/evolucion.md)
 - [x] [Componentes](/temario/02-funcionesDSI/componentes.md)
-- [ ] [Personas: como nos organizamos](/temario/02-funcionesDSI/organizacion.md)
-  - [ ] Funciones
-  - [ ] Conocimiento
-- [ ] Actividades de la DSI
+- [x] [Personas: como nos organizamos](/temario/02-funcionesDSI/organizacion.md)
+  - [x] [Funciones](/temario/02-funcionesDSI/elDirector.md)
+  - [x] [Conocimiento](/temario/02-funcionesDSI/conocimiento.md)
+- [x] [Actividades de la DSI](/temario/02-funcionesDSI/actividades.md)
 
 ## Estrategia y planificación de los sistemas de información
 
@@ -39,7 +39,7 @@
 - [ ] Evolución histórica
 - [ ] La organización: usuarios - clientes
 - [ ] Planificación de las TI
-- [ ] Frameworks de arquitectura empresarial (TOGAF & Zachman)
+- [ ] Frameworks de arquitectura empresarial
 - [ ] Evaluación, gestión y control de proyectos
 - [ ] El capital humano de TI
 - [ ] El rol del CIO

@@ -9,7 +9,8 @@
 ![](/images/modelosUML/modelosUML/sopaDeCs.svg)
 |*#notaMental:Jerarquizarlo y relacionarlo*|
 
-## Cómo
+## Cómo nos organizmos
+
 ### Categorías profesionales
 
 |N|D|
@@ -18,7 +19,7 @@ Desarrollo|Programador, Analista programados, Analista, Jefe de proyecto, Gestor
 Operaciones|Técnico microinformático, Técnico de sistemas, Administrador, Arquitecto de sistemas, Responsable de sistemas
 Negocio|Analista programador, Analista técnico, Analista funcional, Consultor junior, Consultor senior
 
-Detalle de las [categorías profesionales](t02-04-00-s01-CategoriasProfesionales.md)
+Detalle de las [categorías profesionales](categoriasProfesionales.md)
 
 # Bibliografía
 

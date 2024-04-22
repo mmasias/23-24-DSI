@@ -43,8 +43,11 @@ Se espera:
 
 ## ¿Cómo?
 
-|[Conociendo su definición](definicion.md)|>>|[Cómo ha evolucionado](evolucion.md)|>>|[Qué elementos lo componen](componentes.md)|>>|[Cómo se organizan](organizacion.md)|
-|-|-|-|-|-|-|-
+|Conociendo|||||||||
+|-|-|-|-|-|-|-|-|-|
+|[Su definición](definicion.md)|>>|[Su evolución](evolucion.md)|>>|[Su composición](componentes.md)|>>|[Cómo se organizan](organizacion.md)|>>|[Qué  actividades abarca](actividades.md)
+|||||||[Qué hace](elDirector.md)
+|||||||[Qué sabe (*o qué **debe** saber*)](conocimiento.md)
 
 ## Enlaces externos & bibliografía
 

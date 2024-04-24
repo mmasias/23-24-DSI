@@ -32,16 +32,16 @@
   - [x] [Conocimiento](/temario/02-funcionesDSI/conocimiento.md)
 - [x] [Actividades de la DSI](/temario/02-funcionesDSI/actividades.md)
 
-## Estrategia y planificación de los sistemas de información
+## [Estrategia y planificación de los sistemas de información](03-estrategia/README.md)
 
-- [ ] Transformación digital & ciberseguridad
-- [ ] Etapas
+- [ ] [Transformación digital](03-estrategia/transformacionDigital.md) & [ciberseguridad](03-estrategia/ciberseguridad.md)
+- [ ] [Etapas](03-estrategia/etapas.md)
 - [ ] Evolución histórica
 - [ ] La organización: usuarios - clientes
-- [ ] Planificación de las TI
+- [ ] [Planificación de las TI](03-estrategia/planificacion.md)
 - [ ] Frameworks de arquitectura empresarial
 - [ ] Evaluación, gestión y control de proyectos
-- [ ] El capital humano de TI
+- [ ] [El capital humano de TI](03-estrategia/gestionCapitalHumano.md)
 - [ ] El rol del CIO
 
 ## Gestión de proyectos de integración de sistemas

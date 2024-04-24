@@ -28,10 +28,13 @@ Administrar eficazmente el capital humano en TI permite a las organizaciones max
 
 Para implementar una gestión efectiva del capital humano en TI, las empresas deben:
 
-1. **KPIs**: Definir indicadores clave de rendimiento consensuados que reflejen los objetivos del departamento y de la organización. Estos KPIs ayudan a medir la eficacia de las estrategias implementadas y ajustarlas según sea necesario.
-
-2. **Los roles**: Gestionar adecuadamente la variedad de perfiles en la DSI, asegurando que tanto gestores como técnicos tengan las herramientas y oportunidades para desarrollar sus carreras sin imponer roles que no complementen sus habilidades.
-
-3. **La formación**: Implementar programas de capacitación que no solo mejoren las habilidades técnicas, sino que también desarrollen soft skills como la comunicación, el liderazgo y la gestión del cambio.
-
-4. **El ambiente laboral**: Desarrollar una cultura que valore la autonomía y la creatividad, promoviendo un entorno donde los empleados se sientan motivados y comprometidos con sus tareas.
+- **Los KPIs**: Definir indicadores clave de rendimiento consensuados que reflejen los objetivos del departamento y de la organización. Estos KPIs ayudan a medir la eficacia de las estrategias implementadas y ajustarlas según sea necesario.
+  - Para gestores: los KPIs podrían incluir la satisfacción del cliente interno, la entrega de proyectos a tiempo y dentro del presupuesto y la mejora en la eficiencia de los procesos.
+  - Para técnicos: los KPIs podrían centrarse en la calidad del código, la seguridad de las soluciones implementadas o la reducción de tiempo en la resolución de incidencias.
+- **Los roles**: Gestionar adecuadamente la variedad de perfiles en la DSI, asegurando que tanto gestores como técnicos tengan las herramientas y oportunidades para desarrollar sus carreras sin imponer roles que no complementen sus habilidades.
+- **La formación**: Implementar programas de capacitación que no solo mejoren las habilidades técnicas, sino que también desarrollen soft skills como la comunicación, el liderazgo y la gestión del cambio.
+  - **Formación técnica**: Cursos y certificaciones en las últimas tecnologías y metodologías (por ejemplo, cursos de seguridad cibernética, certificaciones en AWS o Azure para técnicos).
+  - **Desarrollo de habilidades blandas**: Talleres sobre liderazgo, gestión del cambio y comunicación efectiva para gestores.
+  - Implementar **evaluaciones de desempeño** que no solo midan resultados, sino también competencias y contribuciones al equipo y la organización.
+  - Desarrollar **planes de carrera** que permitan a los empleados visualizar su crecimiento dentro de la empresa, ya sea ascendiendo en su área técnica o moviéndose hacia roles de gestión.  
+- **El ambiente laboral**: Desarrollar una cultura que valore la autonomía y la creatividad, promoviendo un entorno donde los empleados se sientan motivados y comprometidos con sus tareas.

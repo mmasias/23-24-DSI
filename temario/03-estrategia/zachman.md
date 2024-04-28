@@ -1,6 +1,6 @@
 # Zachman Framework
 
-> [](https://zachman-feac.com/zachman/about-the-zachman-framework)
+> [Zachman international](https://zachman-feac.com/zachman/about-the-zachman-framework)
 
 ## ¿Por qué?
 

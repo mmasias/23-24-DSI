@@ -39,7 +39,7 @@
 - [ ] Evolución histórica
 - [ ] La organización: usuarios - clientes
 - [ ] [Planificación de las TI](03-estrategia/planificacion.md)
-- [ ] Frameworks de arquitectura empresarial
+- [ ] [Frameworks](03-estrategia/frameworks.md) de [arquitectura empresarial](03-estrategia/frameworksArquitecturaEmpresarial.md)
 - [ ] Evaluación, gestión y control de proyectos
 - [ ] [El capital humano de TI](03-estrategia/gestionCapitalHumano.md)
 - [ ] El rol del CIO

@@ -36,3 +36,14 @@ Cada framework tiene herramientas y técnicas específicas para guiar estos paso
 - [TOGAF](togaf.md)
 - [Zachman framework](zachman.md)
 - [FEA (Federal Enterprise Architecture)](fea.md)
+
+### ¡Muy importante!
+
+||||
+|-|-|-|
+Expectativas vs.realidad|A menudo, los frameworks son presentados como soluciones milagrosas que pueden resolver todos los problemas de una organización. Esto puede crear expectativas poco realistas.|Cuando los resultados no cumplen con estas expectativas, los frameworks pueden parecer que no ofrecen valor real.
+Complejidad y rigidez|Algunos frameworks son muy complejos y pueden ser percibidos como rígidos.|Si una empresa no adapta el framework a sus necesidades específicas, puede terminar invirtiendo mucho tiempo y recursos en procesos que no contribuyen directamente a sus objetivos estratégicos.
+Implementación y compromiso|La efectividad de estos frameworks depende en gran medida de su correcta implementación y del compromiso de todos los niveles de la organización.|Sin una implementación adecuada y el apoyo de todos los empleados, el framework puede acabar siendo solo una serie de documentos y modelos sin aplicación práctica.
+Costo vs beneficio|La adopción de un framework de arquitectura empresarial puede ser costosa y requerir una inversión significativa en tiempo y recursos.|Si los beneficios no son claramente mayores que los costos, puede parecer que el framework no agrega valor.
+Certificación vs competencia|Existe el riesgo de que tanto individuos como organizaciones se enfoquen más en la obtención de certificados como un fin en sí mismo, en lugar de como un medio para mejorar realmente sus habilidades y prácticas.
+Mercantilización del conocimiento|El modelo de negocio basado en certificaciones puede llevar a una mercantilización del conocimiento, donde se pone más énfasis en la rentabilidad de las certificaciones que en el verdadero desarrollo profesional y organizacional.

@@ -8,7 +8,7 @@ Repo de materiales y proyectos de la asignatura **Dirección de Sistemas de Info
 |-|-|
 |[Temario](temario/README.md)|Mapa de los temas.<br>Complemento de clases y apuntes del campus.|
 ||☑️ *[Modelos de negocio e innovación](/temario/01-modelosNegocioInnovacion/README.md)* / P·O·D·C
-||🔲 *Funciones de la dirección de sistemas de información* / **P**·**O**·D·C
+||☑️ *Funciones de la dirección de sistemas de información* / **P**·**O**·D·C
 ||🔲 *Estrategia y planificación de los sistemas de información* / **P**·**O**·D·C
 ||🔲 *Gestión de operaciones y servicios* / P·O·**D**·**C**
 ||🔲 *Gestión de proyectos de integración de sistemas* / P·O·**D**·**C**

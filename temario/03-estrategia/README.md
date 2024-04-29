@@ -20,5 +20,10 @@ Incluye la selección de tecnologías, la gestión de datos, y la infraestructur
 
 ## ¿Cómo?
 
-- [Transformación digital](transformacionDigital.md) / [Ciberseguridad](ciberseguridad.md)
-- 
+- [Transformación digital](transformacionDigital.md) 
+- [Etapas](etapas.md)
+- [Planificación](planificacion.md)
+- [Frameworks](frameworks.md) & [Frameworks de arquitectura empresarial](frameworksArquitecturaEmpresarial.md)
+  - [TOGAF](togaf.md) / [Zachman](zachman.md) / [FEA](fea.md)
+- [El capital humano y su gestion](gestionCapitalHumano.md)
+- [Ciberseguridad](ciberseguridad.md)

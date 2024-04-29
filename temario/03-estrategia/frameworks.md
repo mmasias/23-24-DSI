@@ -34,3 +34,4 @@ La implementación de un framework generalmente sigue estos pasos:
 4. **Desarrollo**: Utilizar el framework como base para desarrollar nuevas funciones o componentes que se requieran en el proyecto.
 5. **Mantenimiento**: Continuar actualizando y adaptando el framework a medida que el proyecto evoluciona y nuevas necesidades surgen.
 
+> En nuestro caso, el concepto se asienta dentro de [Frameworks de arquitectura empresarial](frameworksArquitecturaEmpresarial.md)

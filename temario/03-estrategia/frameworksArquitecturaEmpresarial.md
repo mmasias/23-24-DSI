@@ -23,9 +23,9 @@ Conjunto de herramientas y métodos que ayudan a las organizaciones a describir,
 Implementar un framework de arquitectura empresarial implica varias etapas, incluyendo la definición de la arquitectura actual de la empresa, la planificación de una arquitectura futura deseada y la gestión del cambio entre estas dos. Esto se realiza a través de:
 
 1. **Evaluación**: Identificar y documentar la estructura actual, procesos, tecnologías y flujos de información.
-2. **Diseño y Planificación**: Desarrollar un modelo detallado de cómo debería ser la arquitectura futura para alinearla con los objetivos empresariales estratégicos.
+2. **Diseño y planificación**: Desarrollar un modelo detallado de cómo debería ser la arquitectura futura para alinearla con los objetivos empresariales estratégicos.
 3. **Implementación**: Ejecutar los cambios necesarios para moverse desde la arquitectura actual hacia la futura.
-4. **Mantenimiento y Revisión**: Monitorizar la arquitectura implementada y hacer ajustes conforme cambian las necesidades y condiciones del negocio.
+4. **Mantenimiento y revisión**: Monitorizar la arquitectura implementada y hacer ajustes conforme cambian las necesidades y condiciones del negocio.
 
 |||
 |-|-|

@@ -1,4 +1,4 @@
-# Lenguajes de Programación (en la integración de sistemas)
+# Lenguajes de programación (en la integración de sistemas)
 
 ## ¿Por qué?
 

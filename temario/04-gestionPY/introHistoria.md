@@ -2,7 +2,7 @@
 
 ## ¿Por qué?
 
-La gestión de proyectos de integración de sistemas es fundamental debido a la creciente complejidad de las operaciones empresariales. La globalización y la digitalización han llevado a organizaciones de todos los tamaños a adoptar múltiples sistemas y herramientas para optimizar sus operaciones. La necesidad de una integración efectiva surge para evitar los silos de información, reducir las ineficiencias operativas y mejorar la visibilidad y el control sobre los procesos comerciales.
+La gestión de proyectos de integración de sistemas es fundamental debido a la creciente complejidad de las operaciones empresariales.
 
 ## ¿Qué?
 

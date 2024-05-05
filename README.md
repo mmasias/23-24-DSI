@@ -18,6 +18,7 @@ Repo de materiales y proyectos de la asignatura **Dirección de Sistemas de Info
 
 ## Herramientas, links *et al*
 
+* [Acerca de... la inteligencia artificial generativa](https://github.com/mmasias/ai-prompts/blob/main/documentos/itinerarios/initerarioDSI.md), sesión práctica.
 * [Espacio de la asignatura en el campus Virtual](https://campus.uneatlantico.es/course/view.php?id=3028)
 * [📇](https://docs.google.com/spreadsheets/d/1qJNEUbHG_Tbw02Cv8VpkqQ6ICNVh2g_8FsdNWQw-ppA/edit?usp=sharing)
 * Este [repo@github](https://github.com/mmasias)

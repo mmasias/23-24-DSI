@@ -78,3 +78,18 @@ Un sistema ERP es una plataforma de software que integra múltiples funciones y 
   - **Capacitación**: Entrenar al personal para aprovechar todas las funciones del sistema.
   - **Gestión de cambio**: Comunicar los beneficios y gestionar expectativas desde el inicio.
   - **Planificación detallada**: Definir claramente los objetivos y el alcance del proyecto.
+
+### Algunos ERP
+
+- Open source
+  - [Axelor open suite](https://axelor.com/)
+  - [Metasfresh](https://metasfresh.com/en/)
+  - [Tryton](https://www.tryton.org/)
+  - [ERPNext](https://erpnext.com/)
+  - [Odoo](https://www.odoo.com/es_ES/page/editions)
+  - [Dolibarr](https://www.dolibarr.org/)
+  - [OpenBravo](https://www.openbravo.com/)
+- De pago
+  - [SAP](https://www.sap.com/spain/products/erp/what-is-sap-erp.html)
+  - [Holded](https://www.holded.com/es)
+  - [JD Edwards Enterprise](https://www.onegolive.com/jd-edwards/)

@@ -36,21 +36,20 @@
 
 - [x] [Transformación digital](03-estrategia/transformacionDigital.md)
 - [x] [Etapas](03-estrategia/etapas.md)
-- [ ] Evolución histórica
-- [ ] La organización: usuarios - clientes
-- [ ] [Planificación de las TI](03-estrategia/planificacion.md)
-- [ ] [Frameworks](03-estrategia/frameworks.md) de [arquitectura empresarial](03-estrategia/frameworksArquitecturaEmpresarial.md)
-- [ ] Evaluación, gestión y control de proyectos
-- [ ] [El capital humano de TI](03-estrategia/gestionCapitalHumano.md)
-- [ ] El rol del CIO
-- [ ] [Ciberseguridad](03-estrategia/ciberseguridad.md)
+- [x] [Planificación de las TI](03-estrategia/planificacion.md)
+- [x] [Frameworks](03-estrategia/frameworks.md) de [arquitectura empresarial](03-estrategia/frameworksArquitecturaEmpresarial.md)
+- [x] [El capital humano de TI](03-estrategia/gestionCapitalHumano.md)
+- [x] [Ciberseguridad](03-estrategia/ciberseguridad.md)
 
 ## Gestión de proyectos de integración de sistemas
 
-- [ ] Objetivos, Introducción e Historia.
-- [ ] Lenguajes de Programación
-- [ ] Metodología de Desarrollo, Ágil, CMMi, CI/CD.
-- [ ] Tipología de Aplicaciones y sistemas integrados (ERP, CRM, SCM)
+|Herramientas|Diseño|Implantación|Valoración|
+|-|-|-|-|
+|[Lenguajes de programación](lenguajesProgramacion.md)|[Evaluación de requisitos y selección de sistemas](requisitos.md)|[Gestión del cambio y adopción del usuario](gestionDelCambio.md)|[Indicadores](indicadores.md)|
+|[NoCode](noCode.md)|[Arquitectura de integración de sistemas](arquitectura.md)|[Gestión de la seguridad e integridad de datos](gestionSeguridad.md)|[Gestión de riesgos](riesgos.md)|
+|[Metodologías de desarrollo](metodologiasDesarrollo.md)
+|[Tipología de aplicaciones](tipologia.md)
+|[Sistemas ERP (Enterprise Resource Planning)](erp.md)
 
 ## Gestión de operaciones
 
@@ -61,7 +60,7 @@
 - [ ] Green IT y sostenibilidad en TI.
 - [ ] Virtualización y automatización de procesos robóticos (RPA).
 - [ ] IoT y su impacto en la gestión de operaciones.
-- [ ] Arquitectura Empresarial en la práctica.
+- [ ] Arquitectura empresarial en la práctica.
 
 ## Gestión de Servicios
 

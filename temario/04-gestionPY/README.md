@@ -17,13 +17,10 @@ La necesidad de una integración efectiva surge para evitar los silos de informa
 
 ## ¿Cómo?
 
-1. [Lenguajes de programación](lenguajesProgramacion.md) / [NoCode](noCode.md)
-1. [Metodologías de desarrollo](metodologiasDesarrollo.md)
-1. [Tipología de aplicaciones](tipologia.md)
-   - [Sistemas ERP (Enterprise Resource Planning)](erp.md)
-1. [Evaluación de requisitos y selección de sistemas](requisitos.md)
-1. [Arquitectura de integración de sistemas](arquitectura.md)
-1. [Gestión del cambio y adopción del usuario](gestionDelCambio.md)
-1. [Gestión de la seguridad e integridad de datos](gestionSeguridad.md)
-1. [Indicadores](indicadores.md)
-1. [Gestión de riesgos](riesgos.md)
+|Herramientas|Diseño|Implantación|Valoración|
+|-|-|-|-|
+|[Lenguajes de programación](lenguajesProgramacion.md)|[Evaluación de requisitos y selección de sistemas](requisitos.md)|[Gestión del cambio y adopción del usuario](gestionDelCambio.md)|[Indicadores](indicadores.md)|
+|[NoCode](noCode.md)|[Arquitectura de integración de sistemas](arquitectura.md)|[Gestión de la seguridad e integridad de datos](gestionSeguridad.md)|[Gestión de riesgos](riesgos.md)|
+|[Metodologías de desarrollo](metodologiasDesarrollo.md)
+|[Tipología de aplicaciones](tipologia.md)
+|[Sistemas ERP (Enterprise Resource Planning)](erp.md)

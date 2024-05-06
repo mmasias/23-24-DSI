@@ -41,7 +41,7 @@
 - [x] [El capital humano de TI](03-estrategia/gestionCapitalHumano.md)
 - [x] [Ciberseguridad](03-estrategia/ciberseguridad.md)
 
-## Gestión de proyectos de integración de sistemas
+## [Gestión de proyectos de integración de sistemas](04-gestionPY/README.md)
 
 |Herramientas|Diseño|Implantación|Valoración|
 |-|-|-|-|

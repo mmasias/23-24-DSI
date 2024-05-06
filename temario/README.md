@@ -51,30 +51,3 @@
 |[Tipología de aplicaciones](tipologia.md)
 |[Sistemas ERP (Enterprise Resource Planning)](erp.md)
 
-## Gestión de operaciones
-
-- [ ] Objetivos.
-- [ ] Infraestructura Tecnológica
-- [ ] Servidores
-- [ ] Cloud Computing
-- [ ] Green IT y sostenibilidad en TI.
-- [ ] Virtualización y automatización de procesos robóticos (RPA).
-- [ ] IoT y su impacto en la gestión de operaciones.
-- [ ] Arquitectura empresarial en la práctica.
-
-## Gestión de Servicios
-
-- [ ] X-sourcing: Rightsourcing, outsourcing, insourcing, multisourcing
-- [ ] Offshoring. Cómo se implanta y dónde es mejor implantarlo.
-- [ ] Definición de SLA en procesos de externalización.
-- [ ] Caso práctico: Acuerdos de Nivel de Servicio (SLA).
-- [ ] Seguridad de Información en los negocios.
-- [ ] Seguridad y privacidad.
-
-## Comercio electrónico
-
-- [ ] DAFO del concepto de comercio electronico
-- [ ] ¿Estoy preparado para el comercio electrónico?
-- [ ] 🤔
-- [ ] Éxitos y fracasos en el comercio electrónico: Lecciones aprendidas.
-- [ ] Componentes clave y estrategias de éxito en el negocio electrónico.

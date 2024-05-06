@@ -2,7 +2,11 @@
 
 ## ¿Por qué?
 
-La gestión de proyectos de integración de sistemas es fundamental debido a la creciente complejidad de las operaciones empresariales.
+La evolución histórica de la integración de sistemas ha sido un proceso marcado por avances significativos en la gestión empresarial.
+
+Desde las primeras aplicaciones informáticas en la década de 1960 hasta la actualidad, se ha pasado de soluciones imperfectas a sistemas integrados como los ERP (Enterprise Resources Planning). Estos sistemas han evolucionado desde la gestión de materiales hasta abarcar múltiples áreas de la empresa, como compras, producción, ingeniería y almacenes. 
+
+La integración de datos, API y la automatización del flujo de trabajo han sido elementos clave en esta evolución, permitiendo a las organizaciones reunir información de diversas fuentes, optimizar procesos y mejorar la eficiencia operativa. La integración adecuada de sistemas CRM basados en tecnología web ha sido fundamental en este proceso, facilitando la comunicación entre sistemas dispares y coordinando flujos de trabajo de manera fluida.
 
 ## ¿Qué?
 
@@ -29,6 +33,8 @@ Los objetivos principales incluyen:
    - La adopción de arquitecturas basadas en microservicios, API, y tecnologías en la nube ha permitido que las empresas creen sistemas más modulares e interconectados.
    - Se ha destacado el enfoque de "API-First" para la creación de interfaces que permiten la interoperabilidad.
 
+[Mapa](evolucionMapa.md)
+
 ## ¿Para qué?
 
 La evolución histórica y la gestión de estos proyectos buscan:
@@ -46,3 +52,7 @@ La evolución histórica y la gestión de estos proyectos buscan:
 1. **Ejecución**: Implementar las conexiones entre sistemas, probar la consistencia de los datos y entrenar al personal.
 1. **Gestión del cambio**: Involucrar a las partes interesadas y proporcionar capacitación para asegurar una transición sin problemas.
 1. **Monitoreo**: Establecer KPIs para evaluar el éxito de la integración, detectar problemas y mejorar continuamente.
+
+### Bibliografía
+
+- [Evolución en los sistemas de gestión empresarial. Del MRP al ERP](https://www.mintur.gob.es/Publicaciones/Publicacionesperiodicas/EconomiaIndustrial/RevistaEconomiaIndustrial/331/09.JOAQUIN%20DELGADO.pdf)

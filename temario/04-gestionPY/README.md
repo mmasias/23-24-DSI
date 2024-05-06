@@ -2,12 +2,13 @@
 
 ## ¿Por qué?
 
-El funcionamiento óptimo de cualquier organización moderna se consigue adoptando e implantando proyectos de
-software que ofrezcan servicio a las empresas a en sus procesos más importantes. A medida que las organizaciones crecen, crecen sus necesidades y las soluciones que las cubren. Es imprescindible la integración de estos diferentes sistemas de información.
+El funcionamiento óptimo de cualquier organización moderna se consigue adoptando e implantando proyectos de software que ofrezcan servicio a las empresas a en sus procesos más importantes. A medida que las organizaciones crecen, crecen sus necesidades y las soluciones que las cubren. Es imprescindible la integración de estos diferentes sistemas de información.
+
+La evolución histórica de la integración de sistemas ha sido un viaje desde soluciones parciales hasta la implementación de sistemas integrados avanzados que abarcan múltiples aspectos de la gestión empresarial.
 
 ## ¿Qué?
 
-La implantación de estos sistemas se puede llevar a cabo bien mediante desarrollos a medida basados en diferentes lenguajes de programación, bien mediante la implantación de paquetes comerciales de ERP, o lo que suele ser más habitual hoy en día que es abordar soluciones misceláneas de programas a medida con la integración de paquetes comerciales.
+La evolución histórica de la integración de sistemas ha sido un proceso marcado por avances significativos en la gestión empresarial.
 
 ## ¿Para qué?
 
@@ -16,6 +17,8 @@ La necesidad de una integración efectiva surge para evitar los silos de informa
 > [Introducción e historia](introHistoria.md)
 
 ## ¿Cómo?
+
+La implantación de estos sistemas se puede llevar a cabo bien mediante desarrollos a medida basados en diferentes lenguajes de programación, bien mediante la implantación de paquetes comerciales de ERP, o lo que suele ser más habitual hoy en día que es abordar soluciones misceláneas de programas a medida con la integración de paquetes comerciales.
 
 |Herramientas|Diseño|Implantación|Valoración|
 |-|-|-|-|

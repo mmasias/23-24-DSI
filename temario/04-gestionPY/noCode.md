@@ -41,6 +41,8 @@ Personalización|Ofrece la posibilidad de ajustar las aplicaciones a las necesid
    - Permite crear aplicaciones, automatizaciones e informes basados en datos de Office 365 y otros sistemas.
 1. **[Google AppSheet](https://cloud.google.com/appsheet?hl=es-419)**
 
+> De "juguete" (o no tanto...): [Scratch](https://scratch.mit.edu/) / [Blockly](https://blockly.uneatlantico.es/)
+
 ### Casos de Uso en Integración de Sistemas
 
 1. **Automatización de procesos**:  

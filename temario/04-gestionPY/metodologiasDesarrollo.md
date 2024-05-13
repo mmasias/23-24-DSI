@@ -2,21 +2,25 @@
 
 ## ¿Por qué?
 
-En proyectos de integración de sistemas, las metodologías de desarrollo ayudan a planificar, gestionar y ejecutar de manera eficaz la entrega de componentes complejos. La coordinación entre múltiples equipos y departamentos, junto con la necesidad de responder rápidamente a los cambios, requiere enfoques organizados para minimizar riesgos, mejorar la calidad y alcanzar los objetivos.
+Hace falta PODC de manera eficaz la entrega de componentes complejos. 
+
+La coordinación entre múltiples equipos y departamentos, junto con la necesidad de responder rápidamente a los cambios, requiere enfoques organizados para minimizar riesgos, mejorar la calidad y alcanzar los objetivos.
 
 ## ¿Qué?
 
 ### Metodologías ágiles
 
-1. **Scrum**:  
-   - Un marco ágil donde el trabajo se divide en ciclos cortos llamados sprints.
-   - Se centra en la entrega continua, retroalimentación rápida, y la mejora del producto.
-   - Roles clave: Product Owner, Scrum Master y el equipo de desarrollo.
+#### Scrum
 
-2. **Kanban**:  
-   - Metodología visual basada en el flujo continuo.
-   - Utiliza un tablero Kanban para visualizar el progreso de las tareas.
-   - Permite una gestión más flexible y adaptación a las prioridades cambiantes.
+- Un marco ágil donde el trabajo se divide en ciclos cortos llamados sprints.
+- Se centra en la entrega continua, retroalimentación rápida, y la mejora del producto.
+- Roles clave: Product Owner, Scrum Master y el equipo de desarrollo.
+
+#### Kanban
+
+- Metodología visual basada en el flujo continuo.
+- Utiliza un tablero Kanban para visualizar el progreso de las tareas.
+- Permite una gestión más flexible y adaptación a las prioridades cambiantes.
 
 ### Modelo CMMI (Capability Maturity Model Integration)
 
@@ -27,31 +31,28 @@ En proyectos de integración de sistemas, las metodologías de desarrollo ayudan
 
 ### Comparación entre CMMI y Agile
 
-- **Enfoque**:
-  - CMMI: Se centra en la mejora de los procesos.
-  - Agile: Se orienta hacia la entrega rápida de valor.
-- **Estructura**:
-  - CMMI: Más estructurado y formal.
-  - Agile: Flexible y adaptable.
-- **Objetivo**:
-  - CMMI: Establecer procesos consistentes a lo largo del tiempo.
-  - Agile: Permitir la rápida adaptación a los cambios en los requisitos.
+||Enfoque|Estructura|Objetivo|
+|-|-|-|-|
+|**CMM!**|Se centra en la mejora de los procesos.|Más estructurado y formal.|Establecer procesos consistentes a lo largo del tiempo.
+|**Agile**|Se orienta hacia la entrega rápida de valor.|Flexible y adaptable.|Permitir la rápida adaptación a los cambios en los requisitos.
 
 ### Otras metodologías relevantes para proyectos de integración
 
-- **Waterfall (Cascada)**:  
-  - Un enfoque lineal donde cada etapa se completa antes de pasar a la siguiente.
-  - Proporciona una estructura clara, pero es menos flexible.
-- **Lean Development**:  
-  - Inspirada en el método Lean Manufacturing de Toyota.
-  - Busca maximizar el valor y minimizar los desperdicios en los procesos.
+#### Cascada
 
+- Un enfoque lineal donde cada etapa se completa antes de pasar a la siguiente.
+- Proporciona una estructura clara, pero es menos flexible.
+
+#### Lean Development
+
+- Inspirada en el método Lean Manufacturing de Toyota.
+- Busca maximizar el valor y minimizar los desperdicios en los procesos.
 
 ## ¿Para qué?
 
-- **Metodologías ágiles**: Para responder rápidamente a los cambios del entorno, entregando valor al cliente en intervalos cortos.
-- **CMMI**: Para establecer procesos maduros y consistentes que garanticen la calidad y la mejora continua.
-- **Otros enfoques**: Brindan opciones para distintos tipos de proyectos según su tamaño, complejidad y ritmo de cambio.
+- Metodologías ágiles: Para responder rápidamente a los cambios del entorno, entregando valor al cliente en intervalos cortos.
+- CMMI: Para establecer procesos maduros y consistentes que garanticen la calidad y la mejora continua.
+- Otros enfoques: Brindan opciones para distintos tipos de proyectos según su tamaño, complejidad y ritmo de cambio.
 
 ## ¿Cómo?
 

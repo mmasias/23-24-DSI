@@ -8,38 +8,34 @@ La gestión de proyectos de integración de sistemas a menudo implica la incorpo
 
 ### Sistemas ERP (Enterprise Resource Planning)
 
-- **Definición**:  
-  Un sistema ERP es un software que integra múltiples funciones empresariales en un único sistema centralizado, proporcionando un flujo de información consistente entre departamentos como finanzas, recursos humanos, ventas y cadena de suministro.
-- **Características**:
-  - Módulos interconectados que cubren las principales áreas de negocio.
-  - Base de datos centralizada para evitar la duplicación de datos.
-  - Automatización de procesos y flujos de trabajo.
-  - Ejemplos: SAP, Oracle ERP Cloud, Microsoft Dynamics 365.
+Un sistema ERP es un software que integra múltiples funciones empresariales en un único sistema centralizado, proporcionando un flujo de información consistente entre departamentos como finanzas, recursos humanos, ventas y cadena de suministro.
+
+#### Características
+
+- Módulos interconectados que cubren las principales áreas de negocio.
+- Base de datos centralizada para evitar la duplicación de datos.
+- Automatización de procesos y flujos de trabajo.
+- Ejemplos: SAP, Oracle ERP Cloud, Microsoft Dynamics 365.
 
 ### Sistemas CRM (Customer Relationship Management)
 
-- **Definición**:  
-  Un sistema CRM se enfoca en gestionar las interacciones con los clientes actuales y potenciales para mejorar la relación, la retención y las ventas.
-- **Características**:
-  - Base de datos centralizada para capturar información sobre clientes, prospectos e interacciones.
-  - Automatización de marketing, gestión de leads y seguimiento de oportunidades.
-  - Integración con sistemas de ventas y servicio al cliente.
-  - Ejemplos: Salesforce, HubSpot, Zoho CRM.
+Un sistema CRM se enfoca en gestionar las interacciones con los clientes actuales y potenciales para mejorar la relación, la retención y las ventas.
+
+#### Características
+
+- Base de datos centralizada para capturar información sobre clientes, prospectos e interacciones.
+- Automatización de marketing, gestión de leads y seguimiento de oportunidades.
+- Integración con sistemas de ventas y servicio al cliente.
+- Ejemplos: Salesforce, HubSpot, Zoho CRM.
 
 ### Otras aplicaciones empresariales importantes
 
-- **Sistemas SCM (Supply Chain Management)**:  
-  - Gestionan la cadena de suministro, incluyendo el inventario, el pronóstico de la demanda, la planificación de la producción y la distribución.
-  - Ejemplos: SAP SCM, Oracle SCM Cloud.
-- **Sistemas BI (Business Intelligence)**:  
-  - Proporcionan herramientas de análisis para generar informes, visualizaciones y predicciones a partir de los datos empresariales.
-  - Ejemplos: Tableau, Power BI, QlikView.
-- **Sistemas HCM (Human Capital Management)**:  
-  - Gestionan los procesos relacionados con los recursos humanos, como la nómina, el reclutamiento, el desarrollo profesional y las evaluaciones.
-  - Ejemplos: Workday, ADP, Oracle HCM Cloud.
-- **Sistemas de Contabilidad**:  
-  - Automatizan la gestión financiera, el seguimiento de transacciones, la contabilidad general y los informes fiscales.
-  - Ejemplos: QuickBooks, NetSuite, Sage.
+|SCM|BI|HCM|Contabilidad|
+|-|-|-|-|
+|Supply Chain Management|Business Intelligence|Human Capital Management|Contabilidad|
+|Logistica|Gerencia|Recursos humanos|Contabilidad
+|Gestionan la cadena de suministro, incluyendo el inventario, el pronóstico de la demanda, la planificación de la producción y la distribución.|Proporcionan herramientas de análisis para generar informes, visualizaciones y predicciones a partir de los datos empresariales.|Gestionan los procesos relacionados con los recursos humanos, como la nómina, el reclutamiento, el desarrollo profesional y las evaluaciones.|Automatizan la gestión financiera, el seguimiento de transacciones, la contabilidad general y los informes fiscales.|
+|SAP SCM, Oracle SCM Cloud.|Tableau, Power BI, QlikView.|Workday, ADP, Oracle HCM Cloud.|QuickBooks, NetSuite, Sage.|
 
 ## ¿Para qué?
 

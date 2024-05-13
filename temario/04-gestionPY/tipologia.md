@@ -23,7 +23,7 @@ Un sistema ERP es un software que integra múltiples funciones empresariales en 
 - Módulos interconectados que cubren las principales áreas de negocio.
 - Base de datos centralizada para evitar la duplicación de datos.
 - Automatización de procesos y flujos de trabajo.
-- Ejemplos: SAP, Oracle ERP Cloud, Microsoft Dynamics 365.
+- Ejemplos: [SAP](https://www.sap.com/spain/index.html), [Oracle ERP Cloud](https://www.oracle.com/erp/), [Microsoft Dynamics 365](https://www.microsoft.com/es-es/dynamics-365), [Odoo](https://www.odoo.com/es_ES).
 
 ### Sistemas CRM (Customer Relationship Management)
 
@@ -34,7 +34,7 @@ Un sistema CRM se enfoca en gestionar las interacciones con los clientes actuale
 - Base de datos centralizada para capturar información sobre clientes, prospectos e interacciones.
 - Automatización de marketing, gestión de leads y seguimiento de oportunidades.
 - Integración con sistemas de ventas y servicio al cliente.
-- Ejemplos: Salesforce, HubSpot, Zoho CRM.
+- Ejemplos: [Salesforce](https://www.salesforce.com/es/), [HubSpot](https://www.hubspot.es/), [Zoho CRM](https://www.zoho.com/es-xl/crm/).
 
 ### Otras aplicaciones empresariales importantes
 
@@ -43,7 +43,7 @@ Un sistema CRM se enfoca en gestionar las interacciones con los clientes actuale
 |Supply Chain Management|Business Intelligence|Human Capital Management|Contabilidad|
 |Logistica|Gerencia|Recursos humanos|Contabilidad
 |Gestionan la cadena de suministro, incluyendo el inventario, el pronóstico de la demanda, la planificación de la producción y la distribución.|Proporcionan herramientas de análisis para generar informes, visualizaciones y predicciones a partir de los datos empresariales.|Gestionan los procesos relacionados con los recursos humanos, como la nómina, el reclutamiento, el desarrollo profesional y las evaluaciones.|Automatizan la gestión financiera, el seguimiento de transacciones, la contabilidad general y los informes fiscales.|
-|SAP SCM, Oracle SCM Cloud.|Tableau, Power BI, QlikView.|Workday, ADP, Oracle HCM Cloud.|QuickBooks, NetSuite, Sage.|
+|[SAP SCM](https://www.sap.com/spain/products/scm.html), [Oracle SCM Cloud](https://www.oracle.com/es/scm/).|[Tableau](https://www.tableau.com/es-es/trial/tableau-software), [Power BI](https://www.microsoft.com/es-es/power-platform/products/power-bi), [QlikView](https://www.qlik.com/es-es/products/qlikview).|[Workday](https://www.workday.com/es-es/homepage.html), [ADP](https://es.adp.com/), [Oracle HCM Cloud](https://www.oracle.com/es/human-capital-management/).|[QuickBooks](https://quickbooks.intuit.com/global/es-es/), [NetSuite](https://www.netsuite.com/portal/es/home.shtml), [Sage](https://www.sage.com/es-es/).|
 
 ## ¿Para qué?
 
@@ -54,8 +54,8 @@ Un sistema CRM se enfoca en gestionar las interacciones con los clientes actuale
 
 ## ¿Cómo?
 
-1. **Análisis de Requerimientos**: Identificar las aplicaciones que cada área de negocio requiere para sus funciones.
-2. **Selección de Sistemas**: Elegir las aplicaciones empresariales basándose en la compatibilidad con otros sistemas, el costo, las necesidades del negocio y la escalabilidad.
+1. **Análisis de requerimientos**: Identificar las aplicaciones que cada área de negocio requiere para sus funciones.
+2. **Selección de sistemas**: Elegir las aplicaciones empresariales basándose en la compatibilidad con otros sistemas, el costo, las necesidades del negocio y la escalabilidad.
 3. **Integración**: Conectar las aplicaciones mediante APIs, bases de datos compartidas o plataformas de integración para asegurar el flujo de información.
 4. **Pruebas**: Validar que los datos se transfieren correctamente entre las aplicaciones y que se cumplen los objetivos de negocio.
 5. **Monitoreo**: Evaluar el rendimiento de las aplicaciones integradas mediante KPIs y ajustar las conexiones según sea necesario.

@@ -1,4 +1,4 @@
-# Arquitecturas de integración de sistemas
+# GdPyIS > Arquitecturas de integración de sistemas
 
 |Herramientas|Diseño|Implantación|Valoración|
 |-|-|-|-|

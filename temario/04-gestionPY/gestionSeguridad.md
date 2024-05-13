@@ -1,4 +1,4 @@
-# Gestión de la seguridad
+# GdPyIS > Gestión de la seguridad
 
 |Herramientas|Diseño|Implantación|Valoración|
 |-|-|-|-|

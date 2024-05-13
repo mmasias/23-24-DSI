@@ -1,4 +1,4 @@
-# Indicadores
+# GdPyIS > Indicadores
 
 |Herramientas|Diseño|Implantación|Valoración|
 |-|-|-|-|

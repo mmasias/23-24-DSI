@@ -1,4 +1,4 @@
-# Tipología de las aplicaciones
+# GdPyIS > Tipología de las aplicaciones
 
 |Herramientas|Diseño|Implantación|Valoración|
 |-|-|-|-|

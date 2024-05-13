@@ -1,4 +1,4 @@
-# Gestión de riesgos
+# GdPyIS > Gestión de riesgos
 
 |Herramientas|Diseño|Implantación|Valoración|
 |-|-|-|-|

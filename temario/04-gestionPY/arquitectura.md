@@ -16,7 +16,7 @@ La arquitectura de integración de sistemas es fundamental para asegurar un fluj
 
 La arquitectura de integración de sistemas es el diseño que conecta, coordina y controla diferentes aplicaciones, bases de datos y procesos dentro de una organización para que trabajen juntas de manera armónica.
 
-**Objetivos**
+### Objetivos
 
 - **Interoperabilidad**: Permitir la comunicación entre sistemas dispares para compartir datos y funciones.
 - **Eficiencia**: Optimizar los procesos eliminando redundancias y agilizando los flujos de información.
@@ -25,30 +25,18 @@ La arquitectura de integración de sistemas es el diseño que conecta, coordina 
 
 ### (Algunos) tipos de arquitecturas de integración
 
-1. **Punto a punto**
-   - Conecta sistemas directamente entre sí para intercambiar datos.
-   - Es simple pero tiende a volverse complejo con la adición de nuevos sistemas, generando una malla caótica.
-2. **Bus de servicios empresariales (ESB)**
-   - Un bus de servicios centraliza el control de las comunicaciones.
-   - Ofrece un punto de acceso único para todos los sistemas conectados.
-   - Facilita el seguimiento, la seguridad y la gestión de servicios.
-3. **Arquitectura orientada a servicios (SOA)**
-   - Proporciona un marco modular en el que las funciones se exponen como servicios reutilizables.
-   - Usa protocolos estandarizados como SOAP y WSDL.
-   - Permite la composición de servicios complejos a partir de componentes individuales.
-4. **Arquitectura de microservicios**
-   - Divide una aplicación en microservicios autónomos que interactúan mediante APIs.
-   - Permite un desarrollo, despliegue y escalado independientes.
-   - Se apoya en contenedores para mejorar la portabilidad.
-5. **Arquitectura basada en eventos (EDA)**
-   - Las aplicaciones responden a eventos publicados por otros sistemas.
-   - Usa sistemas de mensajería como Kafka o RabbitMQ para la comunicación.
-   - Es útil para sistemas que requieren procesamiento en tiempo real.
 
-### Herramientas y tecnologías clave
+|Punto a punto|Bus de servicios empresariales (ESB)|Arquitectura orientada a servicios (SOA)|Arquitectura de microservicios|Arquitectura basada en eventos (EDA)|
+|-|-|-|-|-|
+|Conecta sistemas directamente entre sí para intercambiar datos.|Un bus de servicios centraliza el control de las comunicaciones.|Proporciona un marco modular en el que las funciones se exponen como servicios reutilizables.|Divide una aplicación en microservicios autónomos que interactúan mediante APIs.|Las aplicaciones responden a eventos publicados por otros sistemas.|
+|Es simple pero tiende a volverse complejo con la adición de nuevos sistemas, generando una malla caótica.|Ofrece un punto de acceso único para todos los sistemas conectados.|Usa protocolos estandarizados como SOAP y WSDL.|Permite un desarrollo, despliegue y escalado independientes.|Usa sistemas de mensajería como Kafka o RabbitMQ para la comunicación.|
+||Facilita el seguimiento, la seguridad y la gestión de servicios.|Permite la composición de servicios complejos a partir de componentes individuales.|Se apoya en contenedores para mejorar la portabilidad.|Es útil para sistemas que requieren procesamiento en tiempo real.|
+||[Mule ESB](https://www.mulesoft.com/es/resources/esb/what-mule-esb) / [IBM WebSphere Message Broker](https://www.ibm.com/mx-es/topics/message-brokers)|Oracle SOA Suite / SAP NetWeaver|*Netflix* / *Amazon*|*LinkedIn* / *Uber*
+
+### Herramientas, términos y tecnologías clave
 
 - **Middleware**: Software que facilita la comunicación y gestión de datos entre aplicaciones, como MuleSoft o IBM WebSphere.
-- **API Management**: Herramientas que controlan, protegen y supervisan el uso de APIs, como Apigee o Kong.
+- **API management**: Herramientas que controlan, protegen y supervisan el uso de APIs, como Apigee o Kong.
 - **Plataformas de integración como servicio (iPaaS)**: Permiten la integración en la nube sin gestión de infraestructura, como Dell Boomi o Microsoft Azure Logic Apps.
 
 ## ¿Para qué?
@@ -60,8 +48,8 @@ La arquitectura de integración de sistemas es el diseño que conecta, coordina 
 
 ## ¿Cómo?
 
-1. **Evaluar Requerimientos**: Analizar los sistemas existentes, las áreas de comunicación crítica y los requisitos futuros para seleccionar el tipo de arquitectura más adecuado.
-2. **Definir Servicios**: Identificar las funciones que deben ser compartidas entre aplicaciones como servicios o APIs.
-3. **Diseñar el Marco**: Crear un marco de comunicación que defina cómo se intercambiarán los datos y cómo se gestionarán las conexiones.
+1. **Evaluar requerimientos**: Analizar los sistemas existentes, las áreas de comunicación crítica y los requisitos futuros para seleccionar el tipo de arquitectura más adecuado.
+2. **Definir servicios**: Identificar las funciones que deben ser compartidas entre aplicaciones como servicios o APIs.
+3. **Diseñar el marco**: Crear un marco de comunicación que defina cómo se intercambiarán los datos y cómo se gestionarán las conexiones.
 4. **Implementar**: Conectar las aplicaciones siguiendo el marco establecido, probando la coherencia de los datos y la compatibilidad.
 5. **Monitorear**: Supervisar las conexiones para detectar errores, medir el rendimiento y asegurar el cumplimiento de los objetivos.

@@ -1,4 +1,4 @@
-# GdPyIS > Lenguajes de programación (en la integración de sistemas)
+# GdPyIS > Lenguajes de programación
 
 |Herramientas|Diseño|Implantación|Valoración|
 |-|-|-|-|

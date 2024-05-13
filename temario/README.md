@@ -45,9 +45,9 @@
 
 |Herramientas|Diseño|Implantación|Valoración|
 |-|-|-|-|
-|[Lenguajes de programación](lenguajesProgramacion.md)|[Evaluación de requisitos y selección de sistemas](requisitos.md)|[Gestión del cambio y adopción del usuario](gestionDelCambio.md)|[Indicadores](indicadores.md)|
-|[NoCode](noCode.md)|[Arquitectura de integración de sistemas](arquitectura.md)|[Gestión de la seguridad e integridad de datos](gestionSeguridad.md)|[Gestión de riesgos](riesgos.md)|
-|[Metodologías de desarrollo](metodologiasDesarrollo.md)
-|[Tipología de aplicaciones](tipologia.md)
-|[Sistemas ERP (Enterprise Resource Planning)](erp.md)
+|[Lenguajes de programación](04-gestionPY/lenguajesProgramacion.md)|[Evaluación de requisitos y selección de sistemas](04-gestionPY/requisitos.md)|[Gestión del cambio y adopción del usuario](04-gestionPY/gestionDelCambio.md)|[Indicadores](04-gestionPY/indicadores.md)|
+|[NoCode](04-gestionPY/noCode.md)|[Arquitectura de integración de sistemas](04-gestionPY/arquitectura.md)|[Gestión de la seguridad e integridad de datos](04-gestionPY/gestionSeguridad.md)|[Gestión de riesgos](04-gestionPY/riesgos.md)|
+|[Metodologías de desarrollo](04-gestionPY/metodologiasDesarrollo.md)
+|[Tipología de aplicaciones](04-gestionPY/tipologia.md)
+|[Sistemas ERP (Enterprise Resource Planning)](04-gestionPY/erp.md)
 

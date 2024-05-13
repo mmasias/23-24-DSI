@@ -1,5 +1,13 @@
 # Lenguajes de programación (en la integración de sistemas)
 
+|Herramientas|Diseño|Implantación|Valoración|
+|-|-|-|-|
+|[**Lenguajes de programación**](lenguajesProgramacion.md)|[Evaluación de requisitos y selección de sistemas](requisitos.md)|[Gestión del cambio y adopción del usuario](gestionDelCambio.md)|[Indicadores](indicadores.md)|
+|[NoCode](noCode.md)|[Arquitectura de integración de sistemas](arquitectura.md)|[Gestión de la seguridad e integridad de datos](gestionSeguridad.md)|[Gestión de riesgos](riesgos.md)|
+|[Metodologías de desarrollo](metodologiasDesarrollo.md)
+|[Tipología de aplicaciones](tipologia.md)
+|[Sistemas ERP (Enterprise Resource Planning)](erp.md)
+
 ## ¿Por qué?
 
 La integración de sistemas requiere que los datos y las funciones fluyan sin problemas entre diferentes aplicaciones y tecnologías. Para esto, los lenguajes de programación son esenciales, ya que permiten crear soluciones que aseguren una comunicación fluida entre las partes de un sistema integrado.

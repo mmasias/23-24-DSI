@@ -1,5 +1,13 @@
 # NoCode
 
+|Herramientas|Diseño|Implantación|Valoración|
+|-|-|-|-|
+|[Lenguajes de programación](lenguajesProgramacion.md)|[Evaluación de requisitos y selección de sistemas](requisitos.md)|[Gestión del cambio y adopción del usuario](gestionDelCambio.md)|[Indicadores](indicadores.md)|
+|[**NoCode**](noCode.md)|[Arquitectura de integración de sistemas](arquitectura.md)|[Gestión de la seguridad e integridad de datos](gestionSeguridad.md)|[Gestión de riesgos](riesgos.md)|
+|[Metodologías de desarrollo](metodologiasDesarrollo.md)
+|[Tipología de aplicaciones](tipologia.md)
+|[Sistemas ERP (Enterprise Resource Planning)](erp.md)
+
 ## ¿Por qué?
 
 El desarrollo NoCode ha ganado popularidad debido a la creciente necesidad de crear soluciones rápidas, eficientes y personalizadas sin requerir experiencia en programación, permitiendo que personas de áreas no técnicas puedan desarrollar aplicaciones y automatizaciones.

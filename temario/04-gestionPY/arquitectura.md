@@ -1,5 +1,13 @@
 # Arquitecturas de integración de sistemas
 
+|Herramientas|Diseño|Implantación|Valoración|
+|-|-|-|-|
+|[Lenguajes de programación](lenguajesProgramacion.md)|[Evaluación de requisitos y selección de sistemas](requisitos.md)|[Gestión del cambio y adopción del usuario](gestionDelCambio.md)|[Indicadores](indicadores.md)|
+|[NoCode](noCode.md)|[**Arquitectura de integración de sistemas**](arquitectura.md)|[Gestión de la seguridad e integridad de datos](gestionSeguridad.md)|[Gestión de riesgos](riesgos.md)|
+|[Metodologías de desarrollo](metodologiasDesarrollo.md)
+|[Tipología de aplicaciones](tipologia.md)
+|[Sistemas ERP (Enterprise Resource Planning)](erp.md)
+
 ## ¿Por qué?
 
 La arquitectura de integración de sistemas es fundamental para asegurar un flujo de información coherente entre las distintas aplicaciones de una organización. A medida que las empresas adoptan múltiples herramientas y plataformas, la integración efectiva de sistemas garantiza la interoperabilidad, la eficiencia operativa y la coherencia de los datos. Una arquitectura sólida minimiza las brechas de comunicación, reduce la duplicación de datos y facilita el crecimiento de la infraestructura.

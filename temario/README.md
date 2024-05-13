@@ -50,4 +50,3 @@
 |[Metodologías de desarrollo](04-gestionPY/metodologiasDesarrollo.md)
 |[Tipología de aplicaciones](04-gestionPY/tipologia.md)
 |[Sistemas ERP (Enterprise Resource Planning)](04-gestionPY/erp.md)
-

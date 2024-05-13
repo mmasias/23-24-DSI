@@ -1,5 +1,13 @@
 # Evaluación de requisitos y selección de sistemas
 
+|Herramientas|Diseño|Implantación|Valoración|
+|-|-|-|-|
+|[Lenguajes de programación](lenguajesProgramacion.md)|[**Evaluación de requisitos y selección de sistemas**](requisitos.md)|[Gestión del cambio y adopción del usuario](gestionDelCambio.md)|[Indicadores](indicadores.md)|
+|[NoCode](noCode.md)|[Arquitectura de integración de sistemas](arquitectura.md)|[Gestión de la seguridad e integridad de datos](gestionSeguridad.md)|[Gestión de riesgos](riesgos.md)|
+|[Metodologías de desarrollo](metodologiasDesarrollo.md)
+|[Tipología de aplicaciones](tipologia.md)
+|[Sistemas ERP (Enterprise Resource Planning)](erp.md)
+
 ## ¿Por qué?
 
 La evaluación de requisitos y la selección de sistemas son esenciales para asegurar que la solución tecnológica satisfaga las necesidades específicas de la organización. Dado que una elección incorrecta puede resultar en altos costos de implementación, falta de compatibilidad y resistencia al cambio, es fundamental determinar claramente los requisitos y definir criterios objetivos que permitan una mejor toma de decisiones y una implementación más fluida.

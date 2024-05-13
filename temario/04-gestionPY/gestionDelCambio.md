@@ -1,5 +1,13 @@
 # Gestión del cambio
 
+|Herramientas|Diseño|Implantación|Valoración|
+|-|-|-|-|
+|[Lenguajes de programación](lenguajesProgramacion.md)|[Evaluación de requisitos y selección de sistemas](requisitos.md)|[**Gestión del cambio y adopción del usuario**](gestionDelCambio.md)|[Indicadores](indicadores.md)|
+|[NoCode](noCode.md)|[Arquitectura de integración de sistemas](arquitectura.md)|[Gestión de la seguridad e integridad de datos](gestionSeguridad.md)|[Gestión de riesgos](riesgos.md)|
+|[Metodologías de desarrollo](metodologiasDesarrollo.md)
+|[Tipología de aplicaciones](tipologia.md)
+|[Sistemas ERP (Enterprise Resource Planning)](erp.md)
+
 ## ¿Por qué?
 
 La gestión del cambio es crucial en proyectos de integración de sistemas porque introduce nuevas formas de trabajo, procesos y herramientas que pueden generar resistencia en la organización. Sin una gestión efectiva del cambio, el proceso de adopción puede verse afectado, lo que resulta en baja productividad, desalineación de objetivos y errores operativos. La capacitación y el soporte adecuados facilitan la transición, minimizan la resistencia y aseguran que los usuarios adopten con éxito las nuevas tecnologías.

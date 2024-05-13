@@ -1,5 +1,13 @@
 # Gestión de la seguridad
 
+|Herramientas|Diseño|Implantación|Valoración|
+|-|-|-|-|
+|[Lenguajes de programación](lenguajesProgramacion.md)|[Evaluación de requisitos y selección de sistemas](requisitos.md)|[Gestión del cambio y adopción del usuario](gestionDelCambio.md)|[Indicadores](indicadores.md)|
+|[NoCode](noCode.md)|[Arquitectura de integración de sistemas](arquitectura.md)|[**Gestión de la seguridad e integridad de datos**](gestionSeguridad.md)|[Gestión de riesgos](riesgos.md)|
+|[Metodologías de desarrollo](metodologiasDesarrollo.md)
+|[Tipología de aplicaciones](tipologia.md)
+|[Sistemas ERP (Enterprise Resource Planning)](erp.md)
+
 ## ¿Por qué?
 
 La gestión de la seguridad e integridad de los datos es crucial para los proyectos de integración de sistemas, ya que las empresas confían en una infraestructura de datos precisa y segura para operar con eficacia. Las brechas de seguridad y los errores en el control de acceso pueden conducir a la pérdida de datos, daño a la reputación, costos regulatorios y multas, así como una pérdida de confianza en el sistema.

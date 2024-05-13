@@ -46,6 +46,10 @@ La coordinación entre múltiples equipos y departamentos, junto con la necesida
 
 ### Otras metodologías relevantes para proyectos de integración
 
+#### RUP
+
+- [Proceso unificado de Rational](https://github.com/mmasias/23-24-idsw1/blob/main/temario/rup.md)
+
 #### Cascada
 
 - Un enfoque lineal donde cada etapa se completa antes de pasar a la siguiente.

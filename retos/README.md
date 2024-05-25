@@ -9,14 +9,3 @@ Proyecto|Descripción|Modo de entrega
 003 - [Innovación](03-innovacion.md)| Innovación sobre 002|
 004 - [App noCode](04-noCode.md) | |
 005 - [Integración Apps](05-integracion.md)| |
-006 - | |
-007 - | |
-008 - | |
-009 - | |
-010 - | |
-
-## Individuales
-
-Proyecto|Descripción|Modo de entrega
--|-|-
-001 - [Huella digital personal](01-huellaDigitalPersonal.md)|Huella digital personal|
